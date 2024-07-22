@@ -1,2 +1,2 @@
-# Basic-registration-form
-Basic registration form using html and css
+# Registration-Form
+This form have more all inputs used in HTML
